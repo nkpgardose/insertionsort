@@ -1,6 +1,6 @@
 {
   "name": "insertionsort",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple sort with O(n^2) complexity. Sorts array of elements with an empty array and inserts elements one at a time in their proper order.",
   "homepage": "https://github.com/nkpgardose",
   "author": {
